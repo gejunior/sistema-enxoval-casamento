@@ -1,6 +1,8 @@
 # sistema-enxoval-casamento
 Feito com React Native para aprender uma nova linguagem.
 
+Utilizei Expo e instalei no Android para melhor visualização
+
 ### Figma
 Projeto iniciado, para ter uma visão do produto final.
 

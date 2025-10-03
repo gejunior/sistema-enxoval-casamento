@@ -1,12 +1,13 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import { home } from './components/index';
+import { Button } from './components/button';
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text>Seja bem vindo!</Text>
       <StatusBar style="auto" />
+      <Button title ="Adicionar item" onPress={() => alert('Clicou no botão!')}/>
     </View>
   );
 }

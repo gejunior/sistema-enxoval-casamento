@@ -3,6 +3,9 @@ Feito com React Native para aprender uma nova linguagem.
 
 Utilizei Expo e instalei no Android para melhor visualização
 
+e também a documentação da RocketSeat para aprender a utilizar a linguagem.
+https://www.rocketseat.com.br/blog/artigos/post/aprenda-react-native-guia-completo-2025 
+
 ### Figma
 Projeto iniciado, para ter uma visão do produto final.
 

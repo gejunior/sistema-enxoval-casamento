@@ -8,5 +8,10 @@ https://www.rocketseat.com.br/blog/artigos/post/aprenda-react-native-guia-comple
 
 ### Figma
 Projeto iniciado, para ter uma visão do produto final.
+mostrando:
+- imagem do produto
+- nome
+- preço e
+- quantidade
 
 https://www.figma.com/design/5lbiiHbXbQaNmjSigMaDbn/Sistema-enxoval?node-id=1-2&t=PK4j5abCYYxm9SEp-1
